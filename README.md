@@ -7,6 +7,6 @@ The data used in this project is from Madrid Council Open Data.
 Data cleaning and exploratory analysis with Python. Data visualizations made in Tableau. 
 
 Know more about the data checking this [Tableau dashboard](https://public.tableau.com/app/profile/elena.salgueiro/viz/EDAaccidentes/Dashboard1)
-and you can also check this [final report](https://github.com/elesalgueiro/Madrid-Traffic-Accidents/blob/main/Final_Report.pdf) with main conclusions.
+You can also check the [final report](https://github.com/elesalgueiro/Madrid-Traffic-Accidents/blob/main/Final_Report.pdf) with main conclusions.
 
 
