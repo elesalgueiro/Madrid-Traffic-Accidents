@@ -1,5 +1,7 @@
 # Madrid-Traffic-Accidents
 
+![](https://github.com/elesalgueiro/IBM-COURSERA-CAPSTONE-PROJECT---The-Battle-of-Neighborghoods/blob/main/Vegan%20Image%20RM.jpg)
+
 Exploratory data analysis and visualization.
 
 The data used in this project is from Madrid Council Open Data. 
