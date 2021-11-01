@@ -8,6 +8,6 @@ Data cleaning and exploratory analysis with Python. Data visualizations made in 
 
 Explore more insights about the data in this [Tableau dashboard](https://public.tableau.com/app/profile/elena.salgueiro/viz/EDAaccidentes/Dashboard1)
 
-Here is a  [final report](https://github.com/elesalgueiro/Madrid-Traffic-Accidents/blob/main/Final_Report.pdf) of the project.
+Here you can consult the [final report](https://github.com/elesalgueiro/Madrid-Traffic-Accidents/blob/main/Final_Report.pdf) of the project.
 
 
