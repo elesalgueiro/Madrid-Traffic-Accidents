@@ -2,7 +2,7 @@
 
 Exploratory data analysis and visualization.
 
-The data used in this project is from Madrid Council Open Data. 
+The data used in this project is from Madrid Council Open Data. There we found data about traffic accidents in Madrid city from 2010 to 2018.
 
 Data cleaning and exploratory analysis with Python. Data visualizations made in Tableau. 
 
